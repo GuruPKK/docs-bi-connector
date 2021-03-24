@@ -120,7 +120,7 @@ data visualization with |bi-short|.
 Learn more about setting up a local |bi-short| test installation
 in the :doc:`Quick Start Guide </local-quickstart>`.
 
-Docs-Platform Test Push
+Docs-Platform Test Push Guru
 
 .. toctree::
    :titlesonly:
